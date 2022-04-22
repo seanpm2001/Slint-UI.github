@@ -1,16 +1,8 @@
-# Slint
-
 ![Slint](https://raw.githubusercontent.com/slint-ui/slint/master/logo/slint-logo-full-light.svg#gh-light-mode-only)![Slint](https://raw.githubusercontent.com/slint-ui/slint/master/logo/slint-logo-full-dark.svg#gh-dark-mode-only)
 
+[![Home Page](https://img.shields.io/badge/Home%20Page-slint--ui.com-blue?style=social)](https://slint-ui.com) 
+[![Repository](https://img.shields.io/github/stars/slint-ui?style=social)](https://github.com/slint-ui/slint)
+[![Twitter](https://img.shields.io/twitter/follow/slint_ui?style=social)](https://twitter.com/slint_ui)
 
+<table border="0" style="border:none"><tr><td valign="center">Formerly known as </td><td><img height="40" src="https://slint-ui.com/resources/logo.drawio.svg" style="vertical-alignment: middle"></td></tr></table>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
